@@ -4,8 +4,7 @@
 
 ### 1. Análisis estadístico
 ¿Cuál es el promedio, mínimo y máximo de los atributos base (HP, Attack, Dfense, Speed) de todos los Pokemón?
-
-
+<img width="355" height="172" alt="image" src="https://github.com/user-attachments/assets/76d0512f-cba6-432d-b6b4-a241ebda583a" />
 
 
 ### 2. Análisis gráfico
@@ -31,6 +30,7 @@ Los tipos asociados tradicionalmente a roles ofensivos físicos (Dragon, Fightin
 ### 4. Análisis estadístico
 ¿ Cuál es el top 5 de especies (Species) más frecuentes en el dataset?
 
+<img width="264" height="183" alt="image" src="https://github.com/user-attachments/assets/0beb4d0a-6d39-4028-968d-0ce465b617d3" />
 
 
 ### 5. Análisis gráfico
@@ -45,8 +45,9 @@ El tipo de Pokémon más común es el tipo Water, en la gráfica observamos que 
 Calcule la correlación entre los atributos HP Base, Attack Base, Defense Base y Speed Base.
 ¿Qué atributos están más correlacionados entre si?
 
+<img width="588" height="175" alt="image" src="https://github.com/user-attachments/assets/40a7da0c-8054-4c4a-a93d-202e81c7c138" />
 
-
+Los datos muestran que cuando un Pokémon tiene alto ataque, es probable que también tenga buena defensa (correlación de 0.47) y HP considerable (correlación de 0.46). Sin embargo, la velocidad parece ser una característica independiente que no guarda mucha relación con las otras estadísticas.
 
 ### 7. Análisis gráfico
 Cree un heatmap (mapa de calor) con la matriz de correlaciones obtenida en el punto anterior.
