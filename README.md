@@ -1,4 +1,7 @@
 # Laboratorio-2-Data-processing---EDA.
+ESTEFANIA ARIAS ORREGO
+MANUELA ROLDAN CANO
+ELIAS JOSE PEREZ
 
 ## Respuestas interpretativas
 
